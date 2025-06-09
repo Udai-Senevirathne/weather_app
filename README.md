@@ -68,5 +68,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - [CMake](https://cmake.org)
 - All open-source contributors
 
----
-*Built with ❤️ by Udai-Senevirathne and contributors.*
+
